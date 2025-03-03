@@ -1,3 +1,5 @@
+i just startet with this 0 exeprience...on using git...bu wll coding am learning on youtube...so it nothing special.
+lets see where i end up with my coding skills
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
